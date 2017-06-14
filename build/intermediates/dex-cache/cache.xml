@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user/AndroidStudioProjects/MenuProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/user/AndroidStudioProjects/MenuProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a52666b9b8472bc8c2e64e5376f22e4316744dc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/20019f3814fd19a7f6e6a720a7d4f5bb9b748bf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/user/AndroidStudioProjects/MenuProject/app/build/intermediates/pre-dexed/debug/classes_c793a4a45b94da8421aae6d9f4047a6f1c284fa4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/AndroidStudioProjects/MenuProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49eb8f2f418cba4d048d0cd63ea211dfe46604bc">
+        <dex dex="/Users/user/AndroidStudioProjects/MenuProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a955f2e82733e31593e23a85a29bc7bb8ee58609/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/8667c8ff2c63f3519416ad04d0e921d8922bf14c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/user/AndroidStudioProjects/MenuProject/app/build/intermediates/pre-dexed/debug/classes_e17e71f9ad9c0ab75a07b35ece1fdcdc98851265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/user/.android/build-cache/2090b7af8e9ee795e6208d591299a7778dc42d99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/user/AndroidStudioProjects/MenuProject/app/build/intermediates/pre-dexed/debug/classes_ced80d2e49cc5a11974b512867998ef9ecfbc86b.jar" />
+    </item>
+
+</items>
