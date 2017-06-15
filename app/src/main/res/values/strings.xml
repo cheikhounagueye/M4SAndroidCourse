@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MenuProject</string>
-    <string name="action_settings">Settings</string>
-    <string name="action_help_title">Help</string>
-    <string name="title_activity_share">Share the love</string>
-    <string name="Share_love">Share the love</string>
-    <string name="send_to">SHARE THE LOVE</string>
-    <string name="title_activity_new_show">NewActivityShow</string>
-</resources>
