@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">ImageViewerFREN</string>
+    <string name="app_name">ImageViewersFREN</string>
     <string name="action_settings">Settings</string>
-    <string name="produit">product</string>
-    <string name="café">cofee</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
